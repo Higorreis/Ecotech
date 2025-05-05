@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>EcoTech</h1>
 <h2>📄 Sobre o projeto: </h2>
 <p>Projeto desenvolvido utilizando HTML, CSS e JS. Site com visibilidade agradável para o usuário. A adaptabilidade do site permite se usado nas versões Desktop e Mobile. Na versão Mobile o atrativo esta no menu escondido que aparecer com a ação de clica no botão Lateral. </p>
@@ -10,3 +11,7 @@
  <h2>📷 Imagens:</h2>
  <img src="./img/Tela de Apresentação.png">
  
+=======
+ECOTECH - Página Web desenvolvida com Tecnologia e Inovação Sustentável.
+Site totalmente Responsivo utilizando as ferramentas: HTML, CSS e JS 
+>>>>>>> bc080093ec3f9364858bf45d1891d1ea88314a84
