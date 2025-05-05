@@ -121,6 +121,7 @@ footer{
     cursor: pointer;
     display: none;
 }
+
 @media screen and (max-width:768px) {
     .destaque .container{
         flex-direction: column;
@@ -145,6 +146,7 @@ footer{
         overflow: hidden;
         transition: 0.3s ease-in-out;
         max-height: 0;
+
     }
     .menu.ativo{
         max-height: 200px;
